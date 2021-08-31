@@ -1,0 +1,101 @@
+
+.menu-item {
+    text-align: center;
+    text-transform: uppercase;
+    border-top:4px solid #F37423;
+    border-bottom:4px solid #F37423;
+    background-color: #0000B8;
+    color: #ffffff;
+    padding: 2px 0px;
+    cursor: pointer;
+}
+.menu-item:hover{
+    text-align: center;
+    text-transform: uppercase;
+    border-top:4px solid #0000B8;
+    border-bottom:4px solid #0000B8;
+    background-color: #F37423;
+    padding-bottom:5px;
+}
+.menu-item a{
+    color: white;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    border-bottom:4px solid #0000B8;
+    padding-bottom:5px;
+}
+.menu-item a:hover{
+    color: white;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    border-bottom:4px solid #F37423;
+    padding-bottom:5px;
+}
+.headerimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    border: solid;
+    border-color: #0000B8;
+    margin: 12px;
+}
+#h1name{
+    color: #0000B8;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px 2px #F37423;
+}
+#h2name{
+    color: #0000B8;
+    text-align: end;
+    text-shadow: 2px 2px 2px #f37423;
+    font-size: larger;
+}
+footer{
+    text-transform: uppercase;
+    border-top:4px solid #F37423;
+    border-bottom:4px solid #F37423;
+    background-color: #0000B8;
+    color: #ffffff;
+    padding: 2px 0px;
+    cursor: pointer;
+}
+footer:hover{
+    text-transform: uppercase;
+    background-color: #F37423;
+    border-top:4px solid #0000B8;
+    border-bottom:4px solid #0000B8;
+    color: #ffffff;
+    padding: 2px 0px;
+    cursor: pointer;
+}
+footer a{
+    color: white;
+    text-decoration-line: none;
+}
+.under h3{
+    text-transform: uppercase;
+    border-bottom:4px solid #F37423;
+    padding-bottom:5px;
+}
+.under h3:hover{
+    text-transform: uppercase;
+    border-bottom:4px solid #0000B8;
+    padding-bottom:5px;
+}
+li:hover{
+    text-transform: uppercase;
+    border-bottom:4px solid #0000B8;
+    padding-bottom:5px;
+}
+#under:hover{
+    text-transform: uppercase;
+    border-bottom:4px solid #0000B8;
+    padding-bottom:5px;
+}
+#under{
+    text-transform: uppercase;
+    border-bottom:4px solid #F37423;
+    padding-bottom:5px;
+}
+

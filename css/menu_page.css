@@ -1,0 +1,22 @@
+.menupage h3{
+    text-transform: uppercase;
+    border-bottom: 0px solid #0000B8;
+    padding-bottom:5px;
+    color: #0000B8;
+    font-size: larger;
+    text-align: start;
+}
+.menupage h3:hover{
+    text-transform: uppercase;
+    border-bottom: 0px solid #F37423;
+    padding-bottom:5px;
+    color: #F37423;
+    font-size: larger;
+    text-align: start;
+}
+.menupage{
+    text-align: center;
+}
+.menupage p{
+    text-align: start;
+}
