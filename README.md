@@ -10,7 +10,7 @@
         <div class="container_12">
             <header>
                 <div class="grid_4">
-                    <img src="../media/logo.png" alt="logo" class="headerimg"/>
+                    <img src="/media/logo.png" alt="logo" class="headerimg"/>
                 </div>
                 <div class="grid_8">
                         <h1 id="h1name">The Beach Cake & Cafe</h1>
