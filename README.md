@@ -109,7 +109,7 @@
                 <div class="grid_3">
                     <h3>Quick Links</h3>
                     <ul>
-                        <li><a href="../html/menu.html">Menu</a></li>
+                        <li><a href="/html/menu.html">Menu</a></li>
                         <li><a href="../html/CompletedOrders.html">Our Completed Orders</a></li>
                         <li><a href="../html/aboutus.html">about us</a></li>
                         <li><a href="../html/contactus.html">Contact us</a></li>
